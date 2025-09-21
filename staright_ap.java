@@ -21,3 +21,4 @@ public class staright_ap {
 	}
 
 }
+//an=a+(n-1)*d
